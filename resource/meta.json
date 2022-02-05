@@ -1,0 +1,11 @@
+{
+  "douyin_logo.jpg": {
+    "color": [0, 0, 255]
+  },
+  "kuaishou_logo.jpg": {
+    "color": [0, 255, 0]
+  },
+  "douyinjisu_logo.jpg": {
+    "color": [255, 0, 0]
+  }
+}
